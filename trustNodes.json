@@ -408,7 +408,13 @@
         "nodeName": "公信大陆",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/44.png",
         "nodeDesc": "公信大陆（EOSLand）是一个源于加拿大温哥华的通证化社区，信奉“区块链的事用区块链来做”！前期是温哥华EOS超级节点候选人，现为全球通证发展提供稳定币、STO证卷型代币、UTO功能型代币发行与交易服务。公信大陆为更好地推动公信链全球化，特此参加公信节点竞选，同时承诺将本社区收益与每一位公信大陆的投票人分享！",
-        "accountName": "ecslew8"
+        "accountName": "ecslew8",
+	"location": {
+		    "city": "Vancouver",
+		    "country": "Canada",
+		    "longitude": 123.055606,
+		    "latitude": 49.143602
+	    }    
     },
     {
         "nodeName": "优得节点",
